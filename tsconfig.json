@@ -25,5 +25,5 @@
     // },
   },
   "include": ["src"],
-//   "exclude": ["tests/e2e/cypress"]
+  "exclude": ["tests/e2e/cypress"]
 }
