@@ -19,10 +19,10 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "noEmit": true,
-    // "paths": {
-    //   "@/*": ["*"],
-    //   "@/tests/*": ["../tests/*"]
-    // },
+    "paths": {
+      "@/*": ["*"],
+      "@/tests/*": ["../tests/*"]
+    },
   },
   "include": ["src"],
   "exclude": ["tests/e2e/cypress"]
